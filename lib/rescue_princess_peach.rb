@@ -8,9 +8,5 @@ end
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
-# puts status
-
-
-
-
+ rescue_princess_peach
+ # puts status //does not have access to the status variable outside the method
